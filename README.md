@@ -7,7 +7,7 @@ It removes -
 - site names like mrjatt.com or pagalworld.org tec.
 - 320kbps or 128KBPS etc.
 
-It all Equllay space rest of the words and convert it to Camel Case.
+It also equally spaces rest of the words and convert it to Camel Case.
 The final output is a decent readable song name.
 
 
